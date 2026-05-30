@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoicevalculate",
+        "uuid": 6368876,
+        "checksum": "53u5n"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
